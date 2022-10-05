@@ -3,7 +3,9 @@ using namespace std;
 
 #define P(x) cout << #x << " = { " << x << " }\n"
 #define Time cerr << "Time Taken: " << (float)clock() / CLOCKS_PER_SEC << " Secs" << "\n";
-#define INF 1000000000  
+#define INF 1000000000
+#define pb(x) push_back(x);
+
 
 // shortcuts for "common" data types in contests
 typedef long long       ll;

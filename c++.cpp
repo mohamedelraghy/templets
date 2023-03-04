@@ -12,6 +12,7 @@ typedef long long       ll;
 typedef pair<int, int>  ii;
 typedef vector<ii>      vii;
 typedef vector<int>     vi;
+typedef vector<string>  vs;
 
 // common memset setting 
 // memset(memo, -1, sizeof memo); // initialize DP memoization table with -1
@@ -21,6 +22,6 @@ typedef vector<int>     vi;
 int main(){
 
 	ios_base::sync_with_stdio(false);
-    	cin.tie(NULL);
+    cin.tie(NULL);
 
 }
